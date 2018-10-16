@@ -1,0 +1,14 @@
+/*Programa que sirve para obtener el porcentaje de las características de las crías de la cruza de dos mamíferos, macho y hembra,
+así como cuántas de las crías van a tener tales características*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+
+/*Se declaran todas las variables de los progenitores*/
+
+char ojos[10]
+char pelo[10]
+char piel[10]
